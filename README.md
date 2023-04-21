@@ -8,5 +8,5 @@
 - Executar o comando **npm install** para instalar as dependências
 - Executar o comando **npm i axios** 
 - Executar o comando **npm i vue-chartjs chart.js**
-- npm run serve
+- Executar o comando **npm run serve**
 - Abrir o browser na rota informada pelo serve;
